@@ -1,0 +1,126 @@
+  @font-face {
+                font-family: 'avenir';
+                src: url('./Avenir.ttc');
+                }
+                
+                
+                body{
+                    font-family: 'avenir';
+                }
+                
+                
+                
+                        .logo{
+						float: left;
+						width: 150px; 
+                }
+                
+                .pull-left{
+                    float: left;
+                }
+                
+                .curs{
+                    font-style: italic;
+                    text-align: center;
+                }
+                .container{
+                    width: 94%;
+                   margin-left: 2%;
+                    margin-right: 2%; 
+                }
+                .cont30{
+                    width: 33.3333333%;
+                    float: left;
+                }
+                .contU70{
+                    width: 70%;
+                    float: left;
+					margin:1%;
+                }
+                .contU30{
+                    width: 25%; 
+                    margin: 1%;
+                    float: left;
+                }
+                .contU100{
+                    width: 97%;
+                    float: left;
+                    margin: 1%;
+                }
+                .contU20{
+                    width: 20%;
+                    float: left;
+					text-align:center; 
+                }
+                .contU50{
+                    width: 47%;
+                    float: left;
+                    margin: 1%;
+                }
+
+                .cont50{
+                    width: 50%;
+                    float: left;
+                }
+                .cont25{
+                    width: 25%; 
+                    float: left;
+                }
+                .ref{
+                    text-align: center;
+                    font-weight: bold; 
+                }
+                .cont100{
+                    width: 100%; 
+                
+                }
+                .cont100 h1{
+                    text-align: center;
+                }
+                .withborder{
+                   
+                    border: 1px solid black; 
+                  
+                }
+                .footer{
+                    text-align: center; 
+                }
+                .contfooter,.assets{
+                    display: inline-block;
+                   border-top: 1px solid lightgray;
+                }
+                .isov{
+                  width:100%;
+				  display:inline-block;
+                }   
+				.isov p{
+					float:right;
+					
+                }
+                .wdthead{
+                    height: 220px;
+                }
+                .wdthead img{
+                    height: 80%;
+                }
+				.blue{
+				color: blue;
+				text-align:justify;
+				}
+				.red{
+				color: red;
+				text-align:justify;
+				}
+				.container.pagecont {
+    width: 1185px;
+}
+.borderbtn{
+	border-bottom: 1px solid black;
+}
+.smalltext{
+	font-size: small
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
